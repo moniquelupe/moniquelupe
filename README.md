@@ -18,5 +18,6 @@
   <img align="center" alt="canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
   <img align="center" alt="trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 </div><br>
+<br>
 
 ![Monique Lupe's GitHub stats](https://github-readme-stats.vercel.app/api?username=moniquelupe&show_icons=true&theme=dracula)
