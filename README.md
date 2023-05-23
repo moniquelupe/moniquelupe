@@ -1,6 +1,6 @@
 ## Olá, me chamo Monique! 👩🏽‍💻
 
-- 💡 Designer gráfico e criadora de conteúdo, em transição de carreira.
+- 💡 Designer gráfico, criadora de conteúdo e DJ, em transição de carreira para tecnologia.
 - 💻 Desenvolvedora Web Front-End pela [Laboratória](https://www.laboratoria.la/br)
 
 ### - 📲 Acesse o meu linkedin: 
