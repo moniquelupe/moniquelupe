@@ -1,7 +1,8 @@
 ## Olá, me chamo Monique! 👩🏽‍💻
 
-- 💡 Designer gráfico, criadora de conteúdo e DJ, em transição de carreira para tecnologia.
 - 💻 Desenvolvedora Web Jr Front-End pela [Laboratória](https://www.laboratoria.la/br)
+- 💡 Designer gráfico, criadora de conteúdo e DJ, em transição de carreira para tecnologia.
+
 
 ### - 📲 Acesse o meu linkedin: 
 <br><a href="https://www.linkedin.com/in/moniquelupe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
