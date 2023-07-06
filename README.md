@@ -4,8 +4,7 @@
 - 💡 Designer gráfico, criadora de conteúdo e DJ, em transição de carreira para tecnologia.
 
 
-### - 📲 Acesse o meu linkedin: 
-<br><a href="https://www.linkedin.com/in/moniquelupe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
+### - 📲 Acesse o meu linkedin: <a href="https://www.linkedin.com/in/moniquelupe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br>
 
 ### - Linguagens e ferramentas que utilizo: 
 <div style="display: inline_block"><br> 
