@@ -1,6 +1,6 @@
 ## Olá, me chamo Monique! 👩🏽‍💻
 
-- 💻 Desenvolvedora Web Jr Front-End pela [Laboratória](https://www.laboratoria.la/br)
+- 💻 Desenvolvedora Web Jr Front-End pela [Laboratória](https://www.laboratoria.la/br) e pela [SOFTEX-PE](https://fap.softexrecife.org.br/)
 - 💡 Designer gráfico, criadora de conteúdo e DJ, em busca da primeira vaga na área de tecnologia.
 
 
@@ -11,6 +11,7 @@
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="REACT" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img align="center" alt="NODE" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="JEST" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
   <img align="center" alt="ESLIT" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
